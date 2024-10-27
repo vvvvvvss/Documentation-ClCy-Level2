@@ -6,3 +6,4 @@ https://github.com/vvvvvvss/OSI
 
 ## Task 3 - Sockets!
 ![image](https://github.com/user-attachments/assets/bae21e44-6e66-4277-9b9f-449bd5d84ead)
+https://github.com/vvvvvvss/socket
