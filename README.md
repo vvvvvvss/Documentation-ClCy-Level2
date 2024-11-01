@@ -7,7 +7,7 @@ Routing: Routing is the process of path selection in any network. A computer net
 Handshakes: It is protocal used to start a connection between two more devices.
 ![image](https://github.com/user-attachments/assets/e0f16e70-4ebd-48ef-9ad7-ad0715eafc39)
 
-https://github.com/vvvvvvss/OSI
+[code](https://github.com/vvvvvvss/OSI)
 
 ## Task 2 - Serverless
 
