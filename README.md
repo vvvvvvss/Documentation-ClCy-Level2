@@ -1,10 +1,10 @@
 # Documentation-ClCy-Level2
 ## Task 1 - OSI
 OSI Model is a conceptual framework that describes the functioning of the network. 
-The OSI model comprises of 7 layers including the physical layer, data link layer, network layer, transport layer, session layer, presentation layer and application layer.  
-Switching: Switching in IT and computer networking is the transfer of data packets, or blocks of data, through a network switch. Switches transfer data from source ports on devices such as computers to destination ports on devices such as routers.  
-Routing: Routing is the process of path selection in any network. A computer network is made of many machines, called nodes, and paths or links that connect those nodes. Communication between two nodes in an interconnected network can take place through many different paths.  
-Handshakes: It is protocal used to start a connection between two more devices.
+The OSI model comprises of 7 layers including the physical layer, data link layer, network layer, transport layer, session layer, presentation layer and application layer.    
+- **Switching:** Switching in IT and computer networking is the transfer of data packets, or blocks of data, through a network switch. Switches transfer data from source ports on devices such as computers to destination ports on devices such as routers.  
+- **Routing:** Routing is the process of path selection in any network. A computer network is made of many machines, called nodes, and paths or links that connect those nodes. Communication between two nodes in an interconnected network can take place through many different paths.  
+- **Handshakes:** It is protocal used to start a connection between two more devices.
 ![image](https://github.com/user-attachments/assets/e0f16e70-4ebd-48ef-9ad7-ad0715eafc39)
 
 [code](https://github.com/vvvvvvss/OSI)
