@@ -9,8 +9,8 @@ The OSI model comprises of 7 layers including the physical layer, data link laye
 
 [code](https://github.com/vvvvvvss/OSI)
 
-## Task 2 - Serverles
-
+## Task 2 - Serverless
+Serverless computing is a method of providing backend services on an as-used basis. Servers are still used, but a company that gets backend services from a serverless vendor is charged based on usage, not a fixed amount of bandwidth or number of servers. Serverless computing can simplify the process of deploying code into production.  
 
 
 ## Task 3 - Sockets!
