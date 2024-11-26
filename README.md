@@ -7,10 +7,13 @@ The OSI model comprises of 7 layers including the physical layer, data link laye
 - **Handshakes:** It is protocal used to start a connection between two more devices.
 ![image](https://github.com/user-attachments/assets/e0f16e70-4ebd-48ef-9ad7-ad0715eafc39)
 
-[code](https://github.com/vvvvvvss/OSI)
+[Code](https://github.com/vvvvvvss/OSI)
 
 ## Task 2 - Serverless
-Serverless computing is a method of providing backend services on an as-used basis. Servers are still used, but a company that gets backend services from a serverless vendor is charged based on usage, not a fixed amount of bandwidth or number of servers. Serverless computing can simplify the process of deploying code into production.  
+Serverless computing is a method of providing backend services on an as-used basis. 
+Serverless computing is a cloud-computing model where developers focus on writing and deploying code without worrying about managing the underlying infrastructure. 
+Despite its name, it doesn't mean servers are no longer involved; rather, the cloud provider handles all the server management tasks, including scaling, maintenance, and provisioning.
+Serverless computing can simplify the process of deploying code into production.  
 https://serverless-var21.vercel.app/
 ![image](https://github.com/user-attachments/assets/c623948f-db3a-40b4-b6cc-7dd8ad85f888)
 [Code](https://github.com/vvvvvvss/Serverless)
