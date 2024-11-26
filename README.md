@@ -29,7 +29,9 @@ Some examples of real-time applications are −
 
 
 
-![image](https://github.com/user-attachments/assets/bae21e44-6e66-4277-9b9f-449bd5d84ead)
+![image](https://github.com/user-attachments/assets/bae21e44-6e66-4277-9b9f-449bd5d84ead)   
+![image](https://github.com/user-attachments/assets/032b2db7-a2bb-4fa7-8382-d09c123cbf16)  
+
 [code](https://github.com/vvvvvvss/socket)
 
 ## Task 4 - Make a Web app
