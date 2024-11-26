@@ -50,14 +50,26 @@ This WebApp uses the following frameworks:
 Docker is an operating system for containers. 
 Similar to how a virtual machine virtualizes (removes the need to directly manage) server hardware, containers virtualize the operating system of a server. 
 Docker is installed on each server and provides simple commands you can use to build, start, or stop containers.
-A container is a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another. 
-A Docker container image is a lightweight, executable package of software that includes everything needed to run an application: code, runtime, system tools, system libraries and settings.
+A *container* is a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another.   
+A *Docker image* is a read-only template used to create containers. It contains everything needed to run an application, including the operating system, application code, libraries, and dependencies.  
+A Dockerfile is a text file that contains a series of instructions on how to build a Docker image. It defines the base image, sets up the environment, copies files into the image, installs dependencies, and specifies how the application should run.   
+Work Flow:
+Create a Dockerfile: You write a Dockerfile that describes how to build the image.  
+Build the Image: Docker reads the Dockerfile and builds an image.  
+Run the Container: You use the image to create and run a container.  
 
 ![image](https://github.com/user-attachments/assets/e278df72-2907-460c-b226-ae1e3bd7ab83)
 
-[code](https://github.com/vvvvvvss/Docker)
+[Code](https://github.com/vvvvvvss/Docker)
 
 ## Task 6 - Docker file spyware
+Spyware is software that can secretly record your activity on your computer. 
+Most commonly, it is delivered through a free download or from an infected email attachment; this is known as a Trojan horse. 
+A simple click is enough to install spyware on your computer without your knowledge. 
+
+![image](https://github.com/user-attachments/assets/a31a2004-7adb-47ef-a5ec-3767bf1daa95)  
+![image](https://github.com/user-attachments/assets/dfb4f2e8-58ea-4f0e-95e1-90d796091782)
+![image](https://github.com/user-attachments/assets/292db3fa-a26d-4c8a-a982-37a95356b09f)
 
 [code](https://github.com/vvvvvvss/spyware)
 
