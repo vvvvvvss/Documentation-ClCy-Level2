@@ -11,7 +11,9 @@ The OSI model comprises of 7 layers including the physical layer, data link laye
 
 ## Task 2 - Serverless
 Serverless computing is a method of providing backend services on an as-used basis. Servers are still used, but a company that gets backend services from a serverless vendor is charged based on usage, not a fixed amount of bandwidth or number of servers. Serverless computing can simplify the process of deploying code into production.  
-
+https://serverless-var21.vercel.app/
+![image](https://github.com/user-attachments/assets/c623948f-db3a-40b4-b6cc-7dd8ad85f888)
+[Code](https://github.com/vvvvvvss/Serverless)
 
 ## Task 3 - Sockets!
 Socket.IO is an event-driven library for real-time web applications that enables real-time, bi-directional communication between web clients and servers.
